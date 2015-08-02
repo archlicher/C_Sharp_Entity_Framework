@@ -1,0 +1,17 @@
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\DB_First.exe.config
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\DB_First.exe
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\DB_First.pdb
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\EntityFramework.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\EntityFramework.xml
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\obj\Debug\DB_First.csprojResolveAssemblyReference.cache
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\obj\Debug\DB_First.exe
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\obj\Debug\DB_First.pdb
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\EntityFramework.Extended.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\EntityFrameworkExtension.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\Remote.Linq.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\Remote.Linq.EntityFramework.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\EntityFramework.Extended.xml
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\Remote.Linq.xml
+D:\SoftUni\db_apps\DBApps_Football_Exam\DB_First\bin\Debug\Remote.Linq.EntityFramework.xml

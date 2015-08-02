@@ -1,0 +1,12 @@
+D:\SoftUni\db_apps\DbApps_Exam\ImportUsersAndGamesFromXml\bin\Debug\ImportUsersAndGamesFromXml.exe.config
+D:\SoftUni\db_apps\DbApps_Exam\ImportUsersAndGamesFromXml\bin\Debug\ImportUsersAndGamesFromXml.exe
+D:\SoftUni\db_apps\DbApps_Exam\ImportUsersAndGamesFromXml\bin\Debug\ImportUsersAndGamesFromXml.pdb
+D:\SoftUni\db_apps\DbApps_Exam\ImportUsersAndGamesFromXml\bin\Debug\Db_First.exe
+D:\SoftUni\db_apps\DbApps_Exam\ImportUsersAndGamesFromXml\bin\Debug\EntityFramework.dll
+D:\SoftUni\db_apps\DbApps_Exam\ImportUsersAndGamesFromXml\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\db_apps\DbApps_Exam\ImportUsersAndGamesFromXml\bin\Debug\Db_First.pdb
+D:\SoftUni\db_apps\DbApps_Exam\ImportUsersAndGamesFromXml\bin\Debug\EntityFramework.xml
+D:\SoftUni\db_apps\DbApps_Exam\ImportUsersAndGamesFromXml\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\db_apps\DbApps_Exam\ImportUsersAndGamesFromXml\obj\Debug\ImportUsersAndGamesFromXml.csprojResolveAssemblyReference.cache
+D:\SoftUni\db_apps\DbApps_Exam\ImportUsersAndGamesFromXml\obj\Debug\ImportUsersAndGamesFromXml.exe
+D:\SoftUni\db_apps\DbApps_Exam\ImportUsersAndGamesFromXml\obj\Debug\ImportUsersAndGamesFromXml.pdb

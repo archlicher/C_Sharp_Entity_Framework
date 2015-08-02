@@ -1,0 +1,5 @@
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Model\bin\Debug\Phonebook.Model.dll
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Model\bin\Debug\Phonebook.Model.pdb
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Model\obj\Debug\Phonebook.Model.csprojResolveAssemblyReference.cache
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Model\obj\Debug\Phonebook.Model.dll
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Model\obj\Debug\Phonebook.Model.pdb

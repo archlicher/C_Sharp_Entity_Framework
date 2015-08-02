@@ -1,0 +1,12 @@
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ExportManufacturersCamerasToJson\bin\Debug\ExportManufacturersCamerasToJson.exe.config
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ExportManufacturersCamerasToJson\bin\Debug\ExportManufacturersCamerasToJson.exe
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ExportManufacturersCamerasToJson\bin\Debug\ExportManufacturersCamerasToJson.pdb
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ExportManufacturersCamerasToJson\bin\Debug\DB_First.exe
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ExportManufacturersCamerasToJson\bin\Debug\EntityFramework.dll
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ExportManufacturersCamerasToJson\bin\Debug\DB_First.pdb
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ExportManufacturersCamerasToJson\bin\Debug\EntityFramework.xml
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ExportManufacturersCamerasToJson\obj\Debug\ExportManufacturersCamerasToJson.csprojResolveAssemblyReference.cache
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ExportManufacturersCamerasToJson\obj\Debug\ExportManufacturersCamerasToJson.exe
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ExportManufacturersCamerasToJson\obj\Debug\ExportManufacturersCamerasToJson.pdb
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ExportManufacturersCamerasToJson\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ExportManufacturersCamerasToJson\bin\Debug\EntityFramework.SqlServer.xml

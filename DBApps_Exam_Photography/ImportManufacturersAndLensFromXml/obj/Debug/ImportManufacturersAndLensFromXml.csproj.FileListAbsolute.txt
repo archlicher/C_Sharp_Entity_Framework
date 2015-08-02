@@ -1,0 +1,12 @@
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ImportManufacturersAndLensFromXml\bin\Debug\ImportManufacturersAndLensFromXml.exe.config
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ImportManufacturersAndLensFromXml\bin\Debug\ImportManufacturersAndLensFromXml.exe
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ImportManufacturersAndLensFromXml\bin\Debug\ImportManufacturersAndLensFromXml.pdb
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ImportManufacturersAndLensFromXml\bin\Debug\DB_First.exe
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ImportManufacturersAndLensFromXml\bin\Debug\EntityFramework.dll
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ImportManufacturersAndLensFromXml\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ImportManufacturersAndLensFromXml\bin\Debug\DB_First.pdb
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ImportManufacturersAndLensFromXml\bin\Debug\EntityFramework.xml
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ImportManufacturersAndLensFromXml\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ImportManufacturersAndLensFromXml\obj\Debug\ImportManufacturersAndLensFromXml.csprojResolveAssemblyReference.cache
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ImportManufacturersAndLensFromXml\obj\Debug\ImportManufacturersAndLensFromXml.exe
+D:\SoftUni\db_apps\DBApps_Exam_Photography\ImportManufacturersAndLensFromXml\obj\Debug\ImportManufacturersAndLensFromXml.pdb

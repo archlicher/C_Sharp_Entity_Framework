@@ -1,0 +1,5 @@
+D:\SoftUni\db_apps\DbApps_Exam\Movies.Model\bin\Debug\Movies.Model.dll
+D:\SoftUni\db_apps\DbApps_Exam\Movies.Model\bin\Debug\Movies.Model.pdb
+D:\SoftUni\db_apps\DbApps_Exam\Movies.Model\obj\Debug\Movies.Model.csprojResolveAssemblyReference.cache
+D:\SoftUni\db_apps\DbApps_Exam\Movies.Model\obj\Debug\Movies.Model.dll
+D:\SoftUni\db_apps\DbApps_Exam\Movies.Model\obj\Debug\Movies.Model.pdb

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Remote.Linq.EntityFramework</name>
+    </assembly>
+    <members>
+        <member name="M:Remote.Linq.EntityFramework.ExpressionExtensions.ExecuteWithEntityFramework(Remote.Linq.Expressions.Expression,System.Data.Entity.DbContext,Remote.Linq.TypeSystem.ITypeResolver,Remote.Linq.Dynamic.IDynamicObjectMapper)">
+            <summary>
+            Composes and executes the query based on the <see cref="T:Remote.Linq.Expressions.Expression"/> and mappes the result into dynamic objects
+            </summary>
+            <param name="expression">The <see cref="T:Remote.Linq.Expressions.Expression"/> to be executed</param>
+            <param name="dbContext">Instance of <see cref="T:System.Data.Entity.DbContext"/> to get the <see cref="!:DbSet&lt;&gt;"/></param>
+            <param name="typeResolver">Optional instance of <see cref="T:Remote.Linq.TypeSystem.ITypeResolver"/> to be used to translate <see cref="T:Remote.Linq.TypeSystem.TypeInfo"/> into <see cref="T:System.Type"/> objects</param>
+            <param name="mapper">Optional instance of <see cref="T:Remote.Linq.Dynamic.IDynamicObjectMapper"/></param>
+            <returns>The mapped result of the query execution</returns>
+        </member>
+        <member name="M:Remote.Linq.EntityFramework.ExpressionExtensions.ExecuteWithEntityFramework(Remote.Linq.Expressions.Expression,System.Func{System.Type,System.Linq.IQueryable},Remote.Linq.TypeSystem.ITypeResolver,Remote.Linq.Dynamic.IDynamicObjectMapper)">
+            <summary>
+            Composes and executes the query based on the <see cref="T:Remote.Linq.Expressions.Expression"/> and mappes the result into dynamic objects
+            </summary>
+            <param name="expression">The <see cref="T:Remote.Linq.Expressions.Expression"/> to be executed</param>
+            <param name="queryableProvider">Delegate to provide <see cref="T:System.Linq.IQueryable"/> instances based on <see cref="T:System.Type"/>s</param>
+            <param name="typeResolver">Optional instance of <see cref="T:Remote.Linq.TypeSystem.ITypeResolver"/> to be used to translate <see cref="T:Remote.Linq.TypeSystem.TypeInfo"/> into <see cref="T:System.Type"/> objects</param>
+            <param name="mapper">Optional instance of <see cref="T:Remote.Linq.Dynamic.IDynamicObjectMapper"/></param>
+            <returns>The mapped result of the query execution</returns>
+        </member>
+        <member name="M:Remote.Linq.EntityFramework.ExpressionExtensions.PrepareForExecutionWithEntityFramework(Remote.Linq.Expressions.Expression,System.Data.Entity.DbContext,Remote.Linq.TypeSystem.ITypeResolver)">
+            <summary>
+            Prepares the query <see cref="T:Remote.Linq.Expressions.Expression"/> to be able to be executed. <para/> 
+            Use this method if you wan to execute the <see cref="T:System.Linq.Expressions.Expression"/> and map the raw result yourself.
+            </summary>
+            <param name="expression">The <see cref="T:Remote.Linq.Expressions.Expression"/> to be executed</param>
+            <param name="dbContext">Instance of <see cref="T:System.Data.Entity.DbContext"/> to get the <see cref="!:DbSet&lt;&gt;"/></param>
+            <param name="typeResolver">Optional instance of <see cref="T:Remote.Linq.TypeSystem.ITypeResolver"/> to be used to translate <see cref="T:Remote.Linq.TypeSystem.TypeInfo"/> into <see cref="T:System.Type"/> objects</param>
+            <returns>A <see cref="T:System.Linq.Expressions.Expression"/> ready for execution</returns>
+        </member>
+        <member name="M:Remote.Linq.EntityFramework.ExpressionExtensions.PrepareForExecutionWithEntityFramework(Remote.Linq.Expressions.Expression,System.Func{System.Type,System.Linq.IQueryable},Remote.Linq.TypeSystem.ITypeResolver)">
+            <summary>
+            Prepares the query <see cref="T:Remote.Linq.Expressions.Expression"/> to be able to be executed. <para/> 
+            Use this method if you wan to execute the <see cref="T:System.Linq.Expressions.Expression"/> and map the raw result yourself.
+            </summary>
+            <param name="expression">The <see cref="T:Remote.Linq.Expressions.Expression"/> to be executed</param>
+            <param name="queryableProvider">Delegate to provide <see cref="T:System.Linq.IQueryable"/> instances based on <see cref="T:System.Type"/>s</param>
+            <param name="typeResolver">Optional instance of <see cref="T:Remote.Linq.TypeSystem.ITypeResolver"/> to be used to translate <see cref="T:Remote.Linq.TypeSystem.TypeInfo"/> into <see cref="T:System.Type"/> objects</param>
+            <returns>A <see cref="T:System.Linq.Expressions.Expression"/> ready for execution</returns>
+        </member>
+        <member name="M:Remote.Linq.EntityFramework.RemoteExpressionReWriter.ReplaceIncludeMethodCall(Remote.Linq.Expressions.Expression,Remote.Linq.TypeSystem.ITypeResolver)">
+            <summary>
+            Replaces resource descriptors by queryable and replaces include method call with entity framework's include methods
+            </summary>
+        </member>
+    </members>
+</doc>

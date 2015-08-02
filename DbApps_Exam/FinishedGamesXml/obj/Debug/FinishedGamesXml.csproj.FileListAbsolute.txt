@@ -1,0 +1,12 @@
+D:\SoftUni\db_apps\DbApps_Exam\FinishedGamesXml\bin\Debug\FinishedGamesXml.exe.config
+D:\SoftUni\db_apps\DbApps_Exam\FinishedGamesXml\bin\Debug\FinishedGamesXml.exe
+D:\SoftUni\db_apps\DbApps_Exam\FinishedGamesXml\bin\Debug\FinishedGamesXml.pdb
+D:\SoftUni\db_apps\DbApps_Exam\FinishedGamesXml\bin\Debug\Db_First.exe
+D:\SoftUni\db_apps\DbApps_Exam\FinishedGamesXml\bin\Debug\EntityFramework.dll
+D:\SoftUni\db_apps\DbApps_Exam\FinishedGamesXml\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\db_apps\DbApps_Exam\FinishedGamesXml\bin\Debug\Db_First.pdb
+D:\SoftUni\db_apps\DbApps_Exam\FinishedGamesXml\bin\Debug\EntityFramework.xml
+D:\SoftUni\db_apps\DbApps_Exam\FinishedGamesXml\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\db_apps\DbApps_Exam\FinishedGamesXml\obj\Debug\FinishedGamesXml.csprojResolveAssemblyReference.cache
+D:\SoftUni\db_apps\DbApps_Exam\FinishedGamesXml\obj\Debug\FinishedGamesXml.exe
+D:\SoftUni\db_apps\DbApps_Exam\FinishedGamesXml\obj\Debug\FinishedGamesXml.pdb

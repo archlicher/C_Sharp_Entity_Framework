@@ -1,0 +1,10 @@
+D:\SoftUni\db_apps\DbApps_Exam\Db_First\bin\Debug\Db_First.exe.config
+D:\SoftUni\db_apps\DbApps_Exam\Db_First\bin\Debug\Db_First.exe
+D:\SoftUni\db_apps\DbApps_Exam\Db_First\bin\Debug\Db_First.pdb
+D:\SoftUni\db_apps\DbApps_Exam\Db_First\bin\Debug\EntityFramework.dll
+D:\SoftUni\db_apps\DbApps_Exam\Db_First\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\db_apps\DbApps_Exam\Db_First\bin\Debug\EntityFramework.xml
+D:\SoftUni\db_apps\DbApps_Exam\Db_First\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\db_apps\DbApps_Exam\Db_First\obj\Debug\Db_First.csprojResolveAssemblyReference.cache
+D:\SoftUni\db_apps\DbApps_Exam\Db_First\obj\Debug\Db_First.exe
+D:\SoftUni\db_apps\DbApps_Exam\Db_First\obj\Debug\Db_First.pdb

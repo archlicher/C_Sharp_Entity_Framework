@@ -1,0 +1,12 @@
+D:\SoftUni\db_apps\DbApps_Exam\ExportCharactersUsersAsJson\bin\Debug\ExportCharactersUsersAsJson.exe.config
+D:\SoftUni\db_apps\DbApps_Exam\ExportCharactersUsersAsJson\bin\Debug\ExportCharactersUsersAsJson.exe
+D:\SoftUni\db_apps\DbApps_Exam\ExportCharactersUsersAsJson\bin\Debug\ExportCharactersUsersAsJson.pdb
+D:\SoftUni\db_apps\DbApps_Exam\ExportCharactersUsersAsJson\bin\Debug\Db_First.exe
+D:\SoftUni\db_apps\DbApps_Exam\ExportCharactersUsersAsJson\bin\Debug\EntityFramework.dll
+D:\SoftUni\db_apps\DbApps_Exam\ExportCharactersUsersAsJson\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\db_apps\DbApps_Exam\ExportCharactersUsersAsJson\bin\Debug\Db_First.pdb
+D:\SoftUni\db_apps\DbApps_Exam\ExportCharactersUsersAsJson\bin\Debug\EntityFramework.xml
+D:\SoftUni\db_apps\DbApps_Exam\ExportCharactersUsersAsJson\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\db_apps\DbApps_Exam\ExportCharactersUsersAsJson\obj\Debug\ExportCharactersUsersAsJson.csprojResolveAssemblyReference.cache
+D:\SoftUni\db_apps\DbApps_Exam\ExportCharactersUsersAsJson\obj\Debug\ExportCharactersUsersAsJson.exe
+D:\SoftUni\db_apps\DbApps_Exam\ExportCharactersUsersAsJson\obj\Debug\ExportCharactersUsersAsJson.pdb

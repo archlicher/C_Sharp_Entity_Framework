@@ -1,0 +1,12 @@
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Data\bin\Debug\Phonebook.Data.dll.config
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Data\bin\Debug\Phonebook.Data.dll
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Data\bin\Debug\Phonebook.Data.pdb
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Data\bin\Debug\EntityFramework.dll
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Data\bin\Debug\Phonebook.Model.dll
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Data\bin\Debug\Phonebook.Model.pdb
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Data\bin\Debug\EntityFramework.xml
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Data\obj\Debug\Phonebook.Data.csprojResolveAssemblyReference.cache
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Data\obj\Debug\Phonebook.Data.dll
+D:\SoftUni\db_apps\DBApps_Exam_Photography\Phonebook.Data\obj\Debug\Phonebook.Data.pdb

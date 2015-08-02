@@ -1,0 +1,5 @@
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Model\bin\Debug\Contacts.Model.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Model\bin\Debug\Contacts.Model.pdb
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Model\obj\Debug\Contacts.Model.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Model\obj\Debug\Contacts.Model.pdb
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Model\obj\Debug\Contacts.Model.csprojResolveAssemblyReference.cache

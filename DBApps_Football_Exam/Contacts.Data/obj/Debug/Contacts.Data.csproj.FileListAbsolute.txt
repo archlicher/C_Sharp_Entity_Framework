@@ -1,0 +1,12 @@
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Data\obj\Debug\Contacts.Data.csprojResolveAssemblyReference.cache
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Data\bin\Debug\Contacts.Data.dll.config
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Data\bin\Debug\Contacts.Data.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Data\bin\Debug\Contacts.Data.pdb
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Data\bin\Debug\Contacts.Model.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Data\bin\Debug\EntityFramework.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Data\bin\Debug\Contacts.Model.pdb
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Data\bin\Debug\EntityFramework.xml
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Data\obj\Debug\Contacts.Data.dll
+D:\SoftUni\db_apps\DBApps_Football_Exam\Contacts.Data\obj\Debug\Contacts.Data.pdb

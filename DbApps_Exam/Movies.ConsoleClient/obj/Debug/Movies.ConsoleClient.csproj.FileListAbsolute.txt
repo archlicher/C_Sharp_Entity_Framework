@@ -1,0 +1,14 @@
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\bin\Debug\Movies.ConsoleClient.exe.config
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\bin\Debug\Movies.ConsoleClient.exe
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\bin\Debug\Movies.ConsoleClient.pdb
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\bin\Debug\Movies.Data.dll
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\bin\Debug\Movies.Model.dll
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\bin\Debug\Movies.Data.pdb
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\bin\Debug\Movies.Model.pdb
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\obj\Debug\Movies.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\obj\Debug\Movies.ConsoleClient.exe
+D:\SoftUni\db_apps\DbApps_Exam\Movies.ConsoleClient\obj\Debug\Movies.ConsoleClient.pdb
